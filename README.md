@@ -1,8 +1,12 @@
  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kupendra
 ================================================================================================================================
 
+   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"><br>
+
+
 * 🌍  I'm based in Banglore.
-* ✉️  You can contact me at [kupendrav99@gmail.com](mailto:kupendrav99@gmail.com)
+* ✉️  You can contact me at [kupendrav99@gmail.com](mailto:kupendrav99@gmail.com)  
+
 * 🧠  I'm learning Javascript | native react | core java
 
 ### Skills
@@ -38,4 +42,5 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=kupendrav&label=Profile%20Views&color=9&icon=5&pretty=false" />
 </a>
+
 
