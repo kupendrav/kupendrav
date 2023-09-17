@@ -3,11 +3,11 @@
 
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"><br>
 
-
+* ISE'26 
 * 🌍  I'm based in Banglore.
 * ✉️  You can contact me at [kupendrav99@gmail.com](mailto:kupendrav99@gmail.com)  
 
-* 🧠  I'm learning Javascript | native react | core java
+* 🧠  I'm into Web development | Android & IOS development | working projects
 
 ### Skills
 
