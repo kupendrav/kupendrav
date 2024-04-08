@@ -1,6 +1,7 @@
-<h1 align="center">
+<h1 align="center" style="color: goldenrod;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kupendra!;" />
 </h1>
+
 
 <div align="center" >   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"><br>
 </div>
