@@ -3,16 +3,16 @@
 </h1>
 
 
-<div align="center" >   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"><br>
-</div>
+<div style="display: flex;  flex-direction: column;">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="margin-right: 20px;">
+     <ul style="list-style-type: none; padding: 0;">
+            <li>ISE'26</li>
+            <li>🌍 I'm based in Bangalore.</li>
+            <li>✉️ You can contact me at <a href="mailto:kupendrav99@gmail.com">kupendrav99@gmail.com</a></li>
+            <li>🧠 I'm into Web development | Android & IOS development | working projects</li>
+        </ul>
+    <div>
 
-* ISE'26 
-* 🌍  I'm based in Banglore.
-* ✉️  You can contact me at [kupendrav99@gmail.com](mailto:kupendrav99@gmail.com)  
-
-* 🧠  I'm into Web development | Android & IOS development | working projects
-
-### Skills
 
 
 <p align="center">
