@@ -3,9 +3,9 @@
 </h1>
 
 
-<div style="display: flex;  flex-direction: column;">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="margin-right: 20px;">
-     <ul style="list-style-type: none; padding: 0;">
+<div style="display: flex;  ">
+    <img src="n8agw6z2smyb1.gif" alt="Coder GIF" width="500" height="300" style="margin-right: 20px;">
+     <ul style="list-style-type: none; padding: 0;flex-direction: column;">
             <li>ISE'26</li>
             <li>🌍 I'm based in Bangalore.</li>
             <li>✉️ You can contact me at <a href="mailto:kupendrav99@gmail.com">kupendrav99@gmail.com</a></li>
