@@ -35,7 +35,7 @@
 
 <a align="center" href="http://www.github.com/kupendrav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kupendrav&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a  href="https://github.com/kupendrav" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kupendrav&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <a align="center" href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=kupendrav&label=Profile%20Views&color=9&icon=5&pretty=false" />
