@@ -1,6 +1,6 @@
 <h1 align="center" style="color: gold;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=white&center=true&vCenter=true&width=800&height=70&duration=7000&lines=Hi+There!+👋:+welcome+to+the+world+of+coding;+I'm+Kupendra!;" />
-</h1>
+</h1><br>
 
 
 <div style="display: flex;  ">
