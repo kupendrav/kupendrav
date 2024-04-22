@@ -4,4 +4,3 @@
 
 
 ![kupendra GitHub stats](https://github-readme-stats.vercel.app/api?username=kupendrav&show_icons=true&theme=transparent)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kupendrav&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
