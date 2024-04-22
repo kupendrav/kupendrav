@@ -32,7 +32,7 @@
 
 ![kupendra GitHub stats](https://github-readme-stats.vercel.app/api?username=kupendrav&show_icons=true&theme=transparent)
 
-<a align="center" href="http://www.github.com/kupendrav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kupendrav&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kupendrav&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
