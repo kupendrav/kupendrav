@@ -3,4 +3,6 @@
 </h1><br>
 
 
-![kupendra GitHub stats](https://github-readme-stats.vercel.app/api?username=kupendrav&show_icons=true&theme=transparent)<br>
+![kupendra GitHub stats](https://github-readme-stats.vercel.app/api?username=kupendrav&show_icons=true&theme=transparent)
+![CodING PLATFORM](https://github.com/kupendrav/kupendrav/assets/93828746/e2d1d332-a1ff-4dd8-9d75-653534b874e7)
+
