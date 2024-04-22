@@ -5,4 +5,3 @@
 ![CodING PLATFORM](https://github.com/kupendrav/kupendrav/assets/93828746/0e0405de-5333-43a4-a6e1-57bc34699ee4)
 
 ![kupendra GitHub stats](https://github-readme-stats.vercel.app/api?username=kupendrav&show_icons=true&theme=transparent)
-![Untitled design](https://github.com/kupendrav/kupendrav/assets/93828746/794cf094-3dcb-461d-85f5-868465f14fe6)
