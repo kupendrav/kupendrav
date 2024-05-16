@@ -6,4 +6,4 @@
 
 ![kupendra GitHub stats](https://github-readme-stats.vercel.app/api?username=kupendrav&show_icons=true&theme=transparent)
 
-][p;[
+][
